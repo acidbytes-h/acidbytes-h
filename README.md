@@ -21,6 +21,3 @@
 [![Windows, Linux, Arch, Quarky](https://skillicons.dev/icons?i=windows,linux,arch,arduino&theme=light)](https://skillicons.dev)
 ## Some Github info
 [![acidbytes's github engagement](https://github-readme-activity-graph.vercel.app/graph?username=acidpave&bg_color=ffe97f&color=30D5C8&line=FFB27F)](https://github.com/acidpave/github-readme-activity-graph)
-![acidbytes's github stats](https://github-readme-stats.vercel.app/api?username=acidpave)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acidpave&langs_count=10&layout=compact)
