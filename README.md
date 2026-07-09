@@ -20,4 +20,8 @@
 ## Operating systems on my PC
 [![Windows, Linux, Arch, Quarky](https://skillicons.dev/icons?i=windows,linux,arch,arduino&theme=light)](https://skillicons.dev)
 ## Some Github info
-[![acidbytes's github engagement](https://github-readme-activity-graph.vercel.app/graph?username=acidpave&bg_color=ffe97f&color=30D5C8&line=FFB27F)](https://github.com/acidpave/github-readme-activity-graph)
+[![acidbytes's github engagement](https://github-readme-activity-graph.vercel.app/graph?username=acidbytes-h&bg_color=ffe97f&color=30D5C8&line=FFB27F)](https://github.com/acidpave/github-readme-activity-graph)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=github&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=github&show_icons=true&include_all_commits=true)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=10)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=10)
