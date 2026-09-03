@@ -1,4 +1,8 @@
 # Hello World! 👋
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)
 #### I'm acidbytes and am 11 at the moment. Despite this, I manage to code in some pretty hard languages like Assembly x86, Hexadecimal Code and even MALBOLGE. I usually do some game dev in my free time, with languages like Python or GDScript.
 - I'm intermediate in both high and low level coding.
 - I'm also developing an library designed to make C like Python called flow.h.
@@ -19,8 +23,10 @@
 [![VS Code, Github, Replit, Sublime Text, PyCharm, Godot](https://skillicons.dev/icons?i=vscode,github,replit,sublime,pycharm,godot&theme=light)](https://skillicons.dev)
 ## Operating systems on my PC
 [![Windows, Linux, Arch, Quarky](https://skillicons.dev/icons?i=windows,linux,arch,arduino&theme=light)](https://skillicons.dev)
-## Some Github info
-
+<details>
+  <summary>Some Github info</summary>
+  
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=21)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=21)
+</details>
