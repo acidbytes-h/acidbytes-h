@@ -1,4 +1,5 @@
 # Hello World! 👋
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Facidbytes-h%2Facidbytes-h&label=Visits+Counter&icon=github&color=%23198754&message=&tz=UTC)
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
