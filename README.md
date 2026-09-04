@@ -24,10 +24,11 @@
 [![VS Code, Github, Replit, Sublime Text, PyCharm, Godot](https://skillicons.dev/icons?i=vscode,github,replit,sublime,pycharm,godot&theme=light)](https://skillicons.dev)
 ## Operating systems on my PC
 [![Windows, Linux, Arch, Quarky](https://skillicons.dev/icons?i=windows,linux,arch,arduino&theme=light)](https://skillicons.dev)
-<details>
-  <summary>Some Github info</summary>
-  
+# Some Github info
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=21)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=21)
-</details>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
