@@ -30,6 +30,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=21)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=21)
 
 <p align="center">
-     <!__<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
