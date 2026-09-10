@@ -27,7 +27,9 @@
 # Some Github info
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=27)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=27)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=28)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=28)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&stats_format=bytes&langs_count=28)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&stats_format=bytes&langs_count=28)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
