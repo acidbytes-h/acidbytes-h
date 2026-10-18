@@ -15,7 +15,7 @@
 - Fun fact: I have tried over **50+ languages** and **10+ game engines!**
 
 ## Tools I've mastered/have lots of experience with
-[![Python, C, C++, C#, HTML, CSS, Java, Bash, Vim, Godot, Markdown](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,asm,cs,html,css,java,bash,vim,godot,md&theme=light)](https://go-skill-icons.netlify.app)
+[![Python, D, C, C++, C#, HTML, CSS, Java, Bash, Vim, Godot, Markdown](https://go-skill-icons.vercel.app/api/icons?i=python,d,c,cpp,asm,cs,html,css,java,bash,vim,godot,md&theme=light)](https://go-skill-icons.netlify.app)
 ## Tools that I have a bit of experience with
 [![p5.js, JS, TS, React, CoffeeScript, HTMX, Svelte, Tailwind CSS, Lua, Ruby, Swift, Rust, Zig, Kotlin, Fortran, MYSql, SQLite, PHP, .NET, LaTeX, Unity, Roblox Studio, Git, Figma, Powershell, Wordpress](https://skillicons.dev/icons?i=p5js,js,ts,react,coffeescript,htmx,svelte,tailwind,lua,ruby,go,powershell,swift,rust,zig,kotlin,fortran,mysql,sqlite,php,dotnet,latex,unity,robloxstudio,git,figma,wordpress&theme=light)](https://skillicons.dev)
 ## Software I use frequently
@@ -27,9 +27,9 @@
 # Some Github info
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=70)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=70)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=99)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=99)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&stats_format=bytes&langs_count=70)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&stats_format=bytes&langs_count=70)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&stats_format=bytes&langs_count=90)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&stats_format=bytes&langs_count=99)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
