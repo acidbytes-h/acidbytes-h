@@ -4,7 +4,7 @@
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 ![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)
-#### I'm acidbytes and am 11 at the moment. Despite this, I manage to code in some pretty hard languages like Assembly x86, Hexadecimal Code and even MALBOLGE. I usually do some game dev in my free time, with languages like Python or GDScript.
+#### I'm acidbytes. I'm Norwegian and am 11 at the moment. Despite this, I manage to code in some pretty hard languages like Assembly x86, Hexadecimal Code and even MALBOLGE. I usually do some game dev in my free time, with languages like Python or GDScript.
 - I'm intermediate in both high and low level coding.
 - I'm also developing an library designed to make C like Python called flow.h.
 - My biggest achievment is writing a cat program in **Malbolge**.
@@ -27,9 +27,9 @@
 # Some Github info
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=99)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=99)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=900)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=900)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&stats_format=bytes&langs_count=90)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&stats_format=bytes&langs_count=99)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&stats_format=bytes&langs_count=900)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&stats_format=bytes&langs_count=900)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
