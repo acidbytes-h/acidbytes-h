@@ -25,6 +25,12 @@
 ## Operating systems on my PC
 [![Windows, Linux, Arch, Quarky](https://skillicons.dev/icons?i=windows,linux,arch,arduino&theme=light)](https://skillicons.dev)
 # Some Github info
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=acidbytes-h&rank_icon=rank&show_icons=true&include_all_commits=true)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=900)](https://github-stats-extended.vercel.app/api/top-langs?username=acidbytes-h&layout=compact&langs_count=900)
